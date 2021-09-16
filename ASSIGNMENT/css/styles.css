@@ -1,0 +1,140 @@
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+.text{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+
+/* Title-section */
+
+#title {
+  background-color: #00143f;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 16% 7%;
+}
+.title-image {
+  width: 100%;
+  margin-top: 8%;
+}
+
+.fw-bold {
+  padding-top: 150px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.contact-button {
+  margin: 3% 5% ;
+  text-align: left;
+  font-size: 5rem;
+  border-radius: 6%;
+}
+
+/* About-Us */
+
+#about-us{
+    height: 90vh;
+}
+
+
+/* ROW-2 */
+.row2-image {
+  width: 65%;
+}
+
+.row-2 {
+  margin: 9%;
+}
+
+/* ROW-3*/
+.row3-image {
+  width: 65%;
+}
+
+.row-3 {
+  margin: 9%;
+}
+
+/* TESTIMONAL-SECTION */
+
+.testimonal-section {
+  background-color: #042366;
+  padding: 100px;
+  text-align: center;
+}
+.testimonal-coloum {
+  padding: 3% 4%;
+}
+
+.card {
+  background-color: #415e9e;
+  height: 18rem;
+}
+.card-body {
+  color: #cacaca;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.card-header {
+  color: #fff;
+}
+
+/* Description -section*/
+
+.descirption-image {
+  width: 80%;
+}
+.row-5 {
+  margin: 14% 10%;
+}
+
+/* Question-section */
+
+.container {
+    margin: 5% ;
+  text-align: center;
+}
+
+.contact {
+  color: rgb(76, 76, 175);
+  font-size: 40px;
+  padding: 4% 2%;
+}
+
+/* Footer-section */
+
+.logo-image {
+  width: 40px;
+  height: 30px;
+}
+
+.contact-us{
+    height: 60vh;
+    background-color: #00143f;
+    text-align: center;
+    color: white;
+}
+
+
+@media (max-width: 1028px) {
+
+.contact-button{
+    text-align: center;
+}
+#about-us{
+    text-align: center ;
+    margin: 4% auto 16%;
+}
+
+.row-5{
+    text-align: center ;
+    margin: 5%;
+}
+.container{
+    text-align: center;
+}
